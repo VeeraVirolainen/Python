@@ -1,0 +1,7 @@
+c = 2
+d = 6
+if c < d:
+    print (‘c is less than d’)  
+else:
+    print (‘c is NOT less than d’)
+print (‘outside the if block’)
